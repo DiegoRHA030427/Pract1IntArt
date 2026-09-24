@@ -1,0 +1,8 @@
+# Dependencias pedidas en la práctica X-Route.
+# networkx/osmnx solo se usan para OBTENER el grafo; los algoritmos de búsqueda se programan desde cero.
+osmnx
+networkx
+folium
+matplotlib
+pytest
+jupyter
